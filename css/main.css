@@ -4,13 +4,13 @@ html {
 
 h1, h2 {
   color: #3f1622;
-  font-family: PT Sans;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1.125rem;
 }
 
 nav {
-  font-family: PT Sans;
-  color: #8f2440
+  font-family: 'PT Sans', sans-serif;
+  color: #8f2440;
 }
 
 figcaption {
@@ -20,5 +20,9 @@ figcaption {
 
 figure {
   color: #222;
-  font-family: PT Serif;
+  font-family: 'PT Serif', serif;
+}
+
+img {
+  width: 100%;
 }
