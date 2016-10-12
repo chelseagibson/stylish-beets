@@ -1,0 +1,19 @@
+html {
+  background-color: #c9b5ab;
+}
+
+h1 {
+  color: #3f1622;
+  font-family: PT Sans;
+  font-size: 1.125rem;
+}
+
+nav {
+  font-family: PT Sans;
+  color: #8f2440
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
