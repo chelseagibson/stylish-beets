@@ -80,3 +80,7 @@ p:nth-last-of-type(1+2) {
 .chris {
   font-size: 0.8rem;
 }
+
+.tags li {
+  font-size: 0.8rem;
+}
