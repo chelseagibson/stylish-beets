@@ -24,7 +24,7 @@ nav {
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
 }
 
 dt {
@@ -78,4 +78,8 @@ nav ol {
 p:nth-last-of-type(1+2) {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
+}
+
+.chris {
+  font-size: 0.8rem;
 }
