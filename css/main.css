@@ -4,7 +4,12 @@ html {
   line-height: normal;
 }
 
-h1, h2 {
+h1 {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+}
+
+h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
@@ -12,6 +17,8 @@ h1, h2 {
 
 nav {
   font-family: "PT Sans", sans-serif;
+  font-size: 1.125rem;
+  font-style: bold;
 }
 
 figcaption {
@@ -61,4 +68,8 @@ blockquote {
   line-height: 1.5;
   font-size: 1.5rem;
   font-style: italic;
+}
+
+nav ol {
+  list-style-type: none;
 }
