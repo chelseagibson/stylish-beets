@@ -18,7 +18,6 @@ h2 {
 nav {
   font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
-  font-style: bold;
 }
 
 figcaption {
@@ -34,6 +33,7 @@ dt {
 figure {
   color: #222;
   font-family: "PT Serif", serif;
+  width: 100%;
 }
 
 img {
