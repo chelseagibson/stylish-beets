@@ -1,7 +1,7 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT Sans", sans-serif;
-  line-height: normal;
+  font-weight: normal;
 }
 
 h1 {
@@ -41,9 +41,7 @@ img {
   width: 100%;
 }
 
-.none {
-  list-style-type: none;
-  font-size: 1.125rem;
+dt {
   font-weight: bold;
 }
 
