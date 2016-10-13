@@ -43,7 +43,7 @@ a:hover {
 }
 
 .common {
-  list-style-type: lower-alpha;
+  list-style-type: lower-greek;
 }
 
 .tags {
@@ -52,4 +52,6 @@ a:hover {
 
 blockquote {
   line-height: 1.5;
+  font-size: 1.5rem;
+  font-style: italic;
 }
