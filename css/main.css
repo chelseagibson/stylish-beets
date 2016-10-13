@@ -28,6 +28,7 @@ img {
 
 a {
   font-weight: normal;
+  text-decoration: none;
 }
 
 a:hover {
@@ -41,4 +42,8 @@ a:hover {
 
 .tags {
   list-style-type: circle;
+}
+
+blockquote {
+  line-height: 1.5; 
 }
